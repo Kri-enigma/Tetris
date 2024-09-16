@@ -1,1 +1,2 @@
-# Tetris
+# C++ Tetris Game using raylib
+
